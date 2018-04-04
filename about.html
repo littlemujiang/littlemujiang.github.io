@@ -1,16 +1,16 @@
 ---
 layout: page
 title: "About"
-description: "Hey, this is Hux."
+description: "Hey, this is mujiang."
 header-img: "img/about-bg-walle.jpg"
 multilingual: true
 ---
 
 <!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select>
+<!--<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">-->
+    <!--<option value="0" selected> 中文 Chinese </option>-->
+    <!--<option value="1"> 英文 English </option>-->
+<!--</select>-->
 
 <!-- Chinese Version -->
 <div class="zh post-container">
@@ -19,10 +19,10 @@ multilingual: true
 </div>
 
 <!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
+<!--<div class="en post-container">-->
+    <!--{% capture about_en %}{% include about/en.md %}{% endcapture %}-->
+    <!--{{ about_en | markdownify }}-->
+<!--</div>-->
 
 
 {% if site.disqus_username %}

@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "2018年的第二场雪"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2018-04-05 12:00:00
 author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -21,7 +21,7 @@ Hux 的 Blog 就这么开通了。
 
 
 
-2015 年，Hux 总算有个地方可以好好写点东西了。
+感谢 Hux 开源的模板。
 
 
 作为一个程序员， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
@@ -77,6 +77,6 @@ Theme 的 CSS 是基于 Bootstrap 定制的，看得不爽的地方直接在 Les
 
 如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
 
-—— Hux 后记于 2015.10
+—— mujiang 后记于 2018.04
 
 
