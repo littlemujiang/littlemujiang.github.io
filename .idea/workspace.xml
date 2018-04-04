@@ -2,6 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e18fea78-9a41-453a-822a-d82347521aac" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2014-01-29-hello-2015.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2014-08-16-miui6.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2014-09-04-is-pure-android-better.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2014-10-01-why-alibaba-ux-sucks.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2014-11-20-responsive-web-design.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2014-12-13-wechat-block-kuaidi.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-03-10-apple-event-2015.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-03-25-digital-native.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-03-31-e2e_user_scenarios.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-04-14-unix-linux-note.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-04-15-os-metro.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-05-11-see-u-ali.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-05-25-js-module-loader.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-06-15-alitrip-strategy.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-07-09-js-module-7day.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-09-22-js-version.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-10-28-how-designer-learn-fe.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-12-15-ios9-safari-web.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2015-12-28-css-sucks-2015.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2016-02-01-React-vs-Angular2.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2016-06-05-pwa-in-my-pov.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2016-10-20-pwa-qcon2016.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2016-11-20-sw-101-gdgdf.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2017-02-09-nextgen-web-pwa.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2017-06-25-you-are-slaves.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template/2017-07-12-upgrading-eleme-to-pwa.markdown" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,8 +98,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -604,12 +631,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522838821931</updated>
-      <workItem from="1522838823699" duration="1022000" />
+      <workItem from="1522838823699" duration="1106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1022000" />
+    <option name="totallyTimeSpent" value="1106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1876" height="1057" extended-state="6" />
@@ -712,8 +739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
           <folding />
         </state>
       </provider>
