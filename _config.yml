@@ -1,7 +1,7 @@
 # Site settings
 title: mujiang
 SEOTitle: mujiang的博客 | mujiang's Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg-moleskine.jpg
 email: xlchen_bit@163.com
 description: "mujiang，Software Engineer，Reader， Movier "
 keyword: "随笔,技术  "
@@ -68,7 +68,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "爱电影，爱读书，<br>不甘于普通青年，<br>却又文艺不起来的靠谱青年。"
-sidebar-avatar: /img/my-git-hd-pen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/my-git-hd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
