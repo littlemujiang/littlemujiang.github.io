@@ -3,9 +3,9 @@ layout:     post
 title:      "2018年的第二场雪"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-04-05 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
-catalog: true
+author:     "mujiang"
+header-img: "img/about-bg-walle.jpg"
+catalog: false
 tags:
     - 生活
 ---

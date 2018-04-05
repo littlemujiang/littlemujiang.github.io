@@ -598,13 +598,13 @@ pre code {
     font-size: 20px;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: #0786ff;
     padding: 20px;
     line-height: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 0.8);
   }
   .navbar-custom .nav li a {
     color: white;
@@ -686,7 +686,7 @@ pre code {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 85px 0 55px;
-  color: white;
+  color: #05adff;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
