@@ -612,7 +612,7 @@ pre code {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(7, 134, 255, 0.8);
   }
   .navbar-custom .nav li a:active {
     background: none;
@@ -636,7 +636,7 @@ pre code {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: rgba(254, 255, 253, 0.9);
+    background-color: rgba(7, 134, 255, 0.9);
     border-bottom: 1px solid #0786ff;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
