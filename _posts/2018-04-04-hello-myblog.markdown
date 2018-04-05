@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2018年的第二场雪"
-subtitle:   " \"Hello World, Hello Snow\""
+subtitle:   " \"Hello Blog, Hello Snow\""
 date:       2018-04-05 10:00:00
 author:     "mujiang"
 header-img: "img/about-bg-walle.jpg"
@@ -17,7 +17,7 @@ tags:
 
 小木匠 的 Blog 就这么开通了。
 
-偶尔查资料的时候，发现了git.io这个网站，进而发现了可以自定义的模板。
+偶尔查资料的时候，发现了github.io这个博客网站，进而发现了可以自定义的模板。
 
 感谢 Hux 开源的模板。让我有了写作的热情。
 
