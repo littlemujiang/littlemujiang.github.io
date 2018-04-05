@@ -572,12 +572,12 @@ pre code {
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
-  color: white;
+  color: #05adff;
   height: 56px;
   line-height: 25px;
 }
 .navbar-custom .navbar-brand:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgb(0, 0, 0);
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
