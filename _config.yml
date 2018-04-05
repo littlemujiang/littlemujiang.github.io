@@ -68,7 +68,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "爱电影，爱读书，<br>不甘于普通青年，<br>却又文艺不起来的靠谱青年。"
-sidebar-avatar: /img/my-git-hd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/my-git-hd-pen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
