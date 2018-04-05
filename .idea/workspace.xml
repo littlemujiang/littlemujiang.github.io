@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -66,24 +66,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Theme</find>
-      <find>Theme b</find>
-      <find>Theme b'y</find>
-      <find>Theme</find>
-      <find>Theme by</find>
-      <find>P</find>
-      <find>PORTfolio</find>
-      <find>PORTfoli</find>
-      <find>PORTfol</find>
-      <find>PORTfo</find>
-      <find>PORTf</find>
       <find>PORTF</find>
       <find>PORTFO</find>
       <find>PORTFOL</find>
       <find>PORTFOLI</find>
       <find>PORT</find>
       <find>PORTFOLIO</find>
-      <find>a</find>
       <find>about</find>
       <find>about-</find>
       <find>about-b</find>
@@ -96,6 +84,18 @@
       <find>g</find>
       <find>ga</find>
       <find>ga_do</find>
+      <find>ap</find>
+      <find>a</find>
+      <find>A</find>
+      <find>Ap</find>
+      <find>App a'l</find>
+      <find>App al</find>
+      <find>App alre</find>
+      <find>App alrea</find>
+      <find>App alread</find>
+      <find>App a</find>
+      <find>App</find>
+      <find>App</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -651,12 +651,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522838821931</updated>
       <workItem from="1522838823699" duration="1491000" />
-      <workItem from="1522884634506" duration="2872000" />
+      <workItem from="1522884634506" duration="3054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4363000" />
+    <option name="totallyTimeSpent" value="4545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1635" height="1027" extended-state="6" />
@@ -928,9 +928,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
           <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,7 +1031,7 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>
