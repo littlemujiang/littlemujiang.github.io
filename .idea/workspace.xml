@@ -19,8 +19,8 @@
       <file leaf-file-name="hux-blog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="714" column="13" lean-forward="false" selection-start-line="714" selection-start-column="7" selection-end-line="714" selection-end-column="13" />
+            <state relative-caret-position="174">
+              <caret line="991" column="5" lean-forward="false" selection-start-line="991" selection-start-column="1" selection-end-line="991" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -29,68 +29,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="offline.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/offline.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tags.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNAME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="30">
+              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -99,8 +39,8 @@
       <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="135">
+              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -109,8 +49,8 @@
       <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="57" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -120,12 +60,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>about-bg</find>
-      <find>about-bg-</find>
-      <find>about-bg-o</find>
-      <find>FEATURED TAGS</find>
-      <find>huangxuan.me</find>
-      <find>g</find>
       <find>ga</find>
       <find>ga_do</find>
       <find>ap</find>
@@ -146,10 +80,16 @@
       <find>huxblog_navbar</find>
       <find>site</find>
       <find>nav</find>
-      <find>title</find>
-      <find>theme-color</find>
-      <find>color</find>
       <find>header</find>
+      <find>title</find>
+      <find>viewport</find>
+      <find>theme-color</find>
+      <find>navbar-brand</find>
+      <find>navbar-header</find>
+      <find>navbar-collapse</find>
+      <find>icon-bar</find>
+      <find>color</find>
+      <find>page</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -761,12 +701,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522838821931</updated>
       <workItem from="1522838823699" duration="1491000" />
-      <workItem from="1522884634506" duration="6229000" />
+      <workItem from="1522884634506" duration="6685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7720000" />
+    <option name="totallyTimeSpent" value="8176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1635" height="1027" extended-state="6" />
@@ -1093,6 +1033,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/hux-blog.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="0" column="8297" lean-forward="false" selection-start-line="0" selection-start-column="8283" selection-end-line="0" selection-end-column="8297" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1119,56 +1083,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/hux-blog.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-593">
-          <caret line="0" column="8297" lean-forward="false" selection-start-line="0" selection-start-column="8283" selection-end-line="0" selection-end-column="8297" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="68" column="19" lean-forward="false" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="81" column="32" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="32" />
+        <state relative-caret-position="30">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="714" column="13" lean-forward="false" selection-start-line="714" selection-start-column="7" selection-end-line="714" selection-end-column="13" />
+        <state relative-caret-position="174">
+          <caret line="991" column="5" lean-forward="false" selection-start-line="991" selection-start-column="1" selection-end-line="991" selection-end-column="5" />
           <folding />
         </state>
       </provider>

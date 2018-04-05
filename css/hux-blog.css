@@ -636,7 +636,7 @@ pre code {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(7, 134, 255, 0.9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
@@ -1170,7 +1170,7 @@ img::-moz-selection {
 .navbar-default .navbar-toggle .icon-bar {
   width: 18px;
   border-radius: 0px;
-  background-color: white;
+  background-color: #0786ff;
 }
 .navbar-default .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 3px;
