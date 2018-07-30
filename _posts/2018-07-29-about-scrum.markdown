@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "关于scrum的一些思考"
-subtitle:   " \"Hello Blog, Hello Snow\""
+subtitle:   " \”Embrace Agile, Win Tomorrow.\""
 date:       2018-07-29 23:00:00
 author:     "mujiang"
 header-img: "img/home-bg-o.jpg"
@@ -10,7 +10,7 @@ tags:
     - 工作
 ---
 
-> “Yeah It begins with snow in 2018 Apr. ”
+> “所谓敏捷，不过是一次只做一件事，一次就把事情做对. ”
 
 
 ## 前言
@@ -49,5 +49,4 @@ scrum中的PO其实就类似于产品经理的角色，而Scrum Master就是项�
 
 
 —— mujiang 记于 2018.07.29
-
 
