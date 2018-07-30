@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "关于scrum的一些思考"
+title:      "关于scrum的一点思考"
 subtitle:   " \"Embrace Agile, Win Tomorrow.\""
 date:       2018-07-29 23:00:00
 author:     "mujiang"
