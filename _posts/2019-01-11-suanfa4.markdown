@@ -584,10 +584,5 @@ PS：
 <tr> <td>633</td>  <td>索引，右栏，倒数第19行：向上取整和向下取整  应改为： 向下取整和向上取整 。</td> <td>3</td>
 <tr> <td>634</td>  <td>索引，左栏，倒数第17行：拓补排序  应改为： 拓扑排序 。</td> <td>3</td>
 <tr> <td>634</td>  <td>索引，左栏，倒数第13行：完整比较序列  应改为： 全序关系 。</td> <td>3</td>
-<tr> <td>948</td>  <td>INDEX，第2栏，倒数第12行：   Reverese postorder traversal  应改为：    Reverse postorder traversal   并将该索引条目后移到倒数第2行。  这就是中文版的勘误呀，为什么退回？对应的英文版勘误本书作者 Kevin Wayne 已经确认了。 哦，对不起，这是英文版的页码。</td> <td>3</td>
-
-
----
-
-—— mujiang 记于 2019.01
-
+<tr> <td>948</td>  <td>INDEX，第2栏，倒数第12行：   Reverese postorder traversal  应改为：    Reverse postorder traversal   并将该索引条目后移到倒数第2行。  这就是中文版的勘误呀，为什么退回？对应的英文版勘误本书作者 Kevin Wayne 已经确认了。 哦，对不起，这是英文版的页码。</td> 
+</table>
