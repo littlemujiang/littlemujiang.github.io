@@ -11,10 +11,8 @@ tags:
 
 ---
 
-> “ `pyAudioAnalysis`是一个非常好用且强大的python音频分析开源工具，能实现音频的特征提取、分类和回归模型的训练和执行，以及其他一些实用的功能。有些英文只能意会，翻译过来比较蹩脚，还请谅解。”
-
-> “此工具也有一篇对应的论文做了介绍，可以免费下载。 地址： https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144610 ”
----
+> “ `pyAudioAnalysis`是一个非常好用且强大的python音频分析开源工具，能实现音频的特征提取、分类和回归模型的训练和执行，以及其他一些实用的功能。有些英文只能意会，翻译过来比较蹩脚，还请谅解。
+此工具也有一篇对应的论文做了介绍，可以免费下载。 [点击查看](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144610)”
 
 
 [TOC]
