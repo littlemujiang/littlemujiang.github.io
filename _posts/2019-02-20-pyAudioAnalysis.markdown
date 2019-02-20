@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "音频分析框架`pyAudioAnalysis`"
+title:      "音频分析框架pyAudioAnalysis文档"
 subtitle:   " \"部分中文文档\""
 date:       2019-02-20 16:30:00
 author:     "mujiang"
