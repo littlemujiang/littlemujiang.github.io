@@ -1,1 +1,9 @@
-tempalte/*
+
+*.iml
+.idea
+_includes
+_layouts
+css
+fonts
+js
+less
