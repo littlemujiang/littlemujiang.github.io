@@ -7,8 +7,7 @@ author:     "mujiang"
 header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
-     - 技术
-     - akka   
+     - 技术 
 ---
 
 上一篇实现了actor的创建，但是这个actor并不能满足我们生产中的要求。主要有以下2点：

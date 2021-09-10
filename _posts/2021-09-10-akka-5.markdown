@@ -8,8 +8,6 @@ header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
      - 技术
-     - akka
-   
 ---
 
 > “之前的例子中我们创建和使用的都是单个actor，而一个actor同时只能处理一条消息，这并没有发挥出akka并行计算的优势，我们希望能并行地去处理消息，就像kafka的consumer那样。这就需要使用到akka中的路由了。”

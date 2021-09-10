@@ -8,7 +8,7 @@ header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
      - 技术
-     - akka
+
 ---
 
 > “akka的理论基础，以及基本环境的搭建与启动”

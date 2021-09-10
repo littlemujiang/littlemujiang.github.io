@@ -7,8 +7,7 @@ author:     "mujiang"
 header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
-     - 技术
-     - akka   
+     - 技术   
 ---
 
 > “在前面，我们实现了单机版的`AkkaSystem`，也实现了actor的并行计算。现在我们做成分布式的/集群化的`AkkaSystem`。以实现最终的目标。”

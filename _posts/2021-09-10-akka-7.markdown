@@ -8,7 +8,6 @@ header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
      - 技术
-     - akka  
 ---
 
 > “工程化的一项主要目标就是通过暴露REST API来管理ActorSystem内的actor。”
