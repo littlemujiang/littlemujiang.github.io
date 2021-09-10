@@ -10,6 +10,7 @@ header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
      - 技术
+     - akka
    
 ---
 

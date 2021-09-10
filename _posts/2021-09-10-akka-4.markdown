@@ -10,7 +10,7 @@ header-img: "img/about-bg-walle.jpg"
 catalog: false
 tags:
      - 技术
-   
+     - akka  
 ---
 
 > “actor之间需要协作才能完成各项功能，协作需要沟通”
