@@ -1,5 +1,3 @@
-# 3. Actor进阶：创建带参数的actor和发送复杂的消息类型
-
 ---
 layout:     post
 title:      "3. Actor进阶：创建带参数的actor和发送复杂的消息类型"

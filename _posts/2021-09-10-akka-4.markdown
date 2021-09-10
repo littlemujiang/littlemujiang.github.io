@@ -1,5 +1,3 @@
-# 4. Actor间的交互与停止
-
 ---
 layout:     post
 title:      "4. Actor间的交互与停止"

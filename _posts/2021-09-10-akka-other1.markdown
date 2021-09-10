@@ -1,5 +1,3 @@
-# 其他：集群下的单例actor
-
 ---
 layout:     post
 title:      "其他：集群下的单例actor"
