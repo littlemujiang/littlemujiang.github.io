@@ -1,14 +1,4 @@
----
-layout:     post
-title:      "2018年的第二场雪"
-subtitle:   " \"Hello Blog, Hello Snow\""
-date:       2018-04-05 10:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-    - 生活
----
+
 
 # 2018年的第二场雪
 
