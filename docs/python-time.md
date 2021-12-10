@@ -1,15 +1,4 @@
----
-layout:     post
-title:      "python 时间处理"
-subtitle:   " \"最全的python时间处理\""
-date:       2018-09-21 10:00:00
-author:     "mujiang"
-header-img: "img/tools.jpg"
-catalog: false
-tags:
-     - 技术
-
----
+# "python 时间处理"
 
 > “dict(python.time)”
 

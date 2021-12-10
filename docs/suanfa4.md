@@ -1,15 +1,5 @@
----
-layout:     post
-title:      "《算法4》勘误表"
-subtitle:   " \" 5年前的小成果 \""
-date:       2019-01-11 10:00:00
-author:     "mujiang"
-header-img: "img/post-pages.jpg"
-catalog: false
-tags:
-     - 技术
 
----
+# 《算法4》勘误表"
 
 > “赠人玫瑰，手有余香。”
 
