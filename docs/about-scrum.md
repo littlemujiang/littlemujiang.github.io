@@ -1,14 +1,5 @@
----
-layout:     post
-title:      "关于scrum的一点思考"
-subtitle:   " \"Embrace Agile, Win Tomorrow.\""
-date:       2018-07-29 23:00:00
-author:     "mujiang"
-header-img: "img/home-bg-o.jpg"
-catalog: false
-tags:
-    - 工作
----
+
+# 关于scrum的一点思考
 
 > "所谓敏捷，不过是一次只做一件事，一次就把事情做对. "
 

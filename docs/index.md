@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# welcome to littlemujiang's star
 
-You can use the [editor on GitHub](https://github.com/littlemujiang/littlemujiang.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 生活
 
-### Markdown
+* [2018年的第二场雪](https://littlemujiang.github.io/hello-myblog)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 工作
 
-# Header 1
-## Header 2
-### Header 3
+* [关于scrum的一点思考](https://littlemujiang.github.io/about-scrum)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 技术
 
-[Link](url) and ![Image](src)
-```
+* [python 时间处理](https://littlemujiang.github.io/python-time)
+* [《算法4》勘误表](https://littlemujiang.github.io/suanfa4)
+* [音频分析工具包：pyAudioAnalysis中文文档](https://littlemujiang.github.io/pyAudioAnalysis)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littlemujiang/littlemujiang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
