@@ -91,3 +91,5 @@ friends: [
         href: "https://littlemujiang.github.io"
     }
 ]
+
+theme: jekyll-theme-modernist
