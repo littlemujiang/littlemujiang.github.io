@@ -5,8 +5,6 @@
 此工具也有一篇对应的论文做了介绍，可以免费下载。 [点击查看](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144610)”
 
 
-[TOC]
-
 ---
 
 ## 1.欢迎
