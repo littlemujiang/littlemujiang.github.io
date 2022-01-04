@@ -1,17 +1,4 @@
-# 1. 基础概念与启动ActorSystem
-
----
-layout:     post
-title:      "1. 基础概念与启动ActorSystem"
-subtitle:   "把ActorSystem启动起来"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
+# 1.基础概念与启动ActorSystem
 
 > “akka的理论基础，以及基本环境的搭建与启动”
 

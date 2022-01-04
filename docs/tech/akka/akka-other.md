@@ -1,17 +1,5 @@
 # 其他：集群下的单例actor
 
----
-layout:     post
-title:      "其他：集群下的单例actor"
-subtitle:   "有状态场景的处理"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
 
 > “分布式集群保障了服务的高可用，但同时要求actor必须是无状态的，对于有状态的情况，可以把状态放入数据库，但这增加了额外的开销。也可以使用akka提供的单例actor。”
 

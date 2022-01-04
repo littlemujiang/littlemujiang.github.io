@@ -1,17 +1,5 @@
-# 7. 工程化
- 
----
-layout:     post
-title:      "7. 工程化"
-subtitle:   "封装成服务"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
+# 7.工程化
+
 
 > “工程化的一项主要目标就是通过暴露REST API来管理ActorSystem内的actor。”
 

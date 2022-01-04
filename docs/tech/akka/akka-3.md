@@ -1,17 +1,5 @@
-# 3. Actor进阶：创建带参数的actor和发送复杂的消息类型
+# 3.Actor进阶：创建带参数的actor和发送复杂的消息类型
 
----
-layout:     post
-title:      "3. Actor进阶：创建带参数的actor和发送复杂的消息类型"
-subtitle:   "扩展最基本的actor，让actor更实用"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
 
 上一篇实现了actor的创建，但是这个actor并不能满足我们生产中的要求。主要有以下2点：
 

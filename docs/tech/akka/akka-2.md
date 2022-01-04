@@ -1,17 +1,4 @@
-# 2. Actor基础：创建Actor并发送消息
-
----
-layout:     post
-title:      "2. Actor基础：创建Actor并发送消息"
-subtitle:   "在ActorSystem中创建最简单的actor"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
+# 2.Actor基础：创建Actor并发送消息
 
 > “上面我们启动了ActorSystem，但是什么都没有，现在我们在里面创建一个actor，并给它发送消息。”
 

@@ -1,17 +1,4 @@
-# 0. 概述/前言
-
----
-layout:     post
-title:      "0. 概述/前言"
-subtitle:   "给自己一个开始的理由"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
+# 0.概述/前言
 
 > “本节类似图书里的前言，旨在说明这一系列文章的写作目的、目标读者等内容。”
 

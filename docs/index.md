@@ -23,6 +23,12 @@
 ### akka专题
 
 * [0.概述/前言](https://littlemujiang.github.io/tech/akka/akka-0)
-
-
+* [1.基础概念与启动ActorSystem](https://littlemujiang.github.io/tech/akka/akka-1)
+* [2.Actor基础：创建Actor并发送消息](https://littlemujiang.github.io/tech/akka/akka-2)
+* [3.Actor进阶：创建带参数的actor和发送复杂的消息类型](https://littlemujiang.github.io/tech/akka/akka-3)
+* [4.Actor间的交互与停止](https://littlemujiang.github.io/tech/akka/akka-4)
+* [5.路由](https://littlemujiang.github.io/tech/akka/akka-5)
+* [6.集群](https://littlemujiang.github.io/tech/akka/akka-6)
+* [7.工程化](https://littlemujiang.github.io/tech/akka/akka-7)
+* [其他：集群下的单例actor](https://littlemujiang.github.io/tech/akka/akka-other)
 

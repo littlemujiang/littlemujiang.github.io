@@ -1,17 +1,4 @@
-# 6. 集群 
-
---- 
-layout:     post
-title:      "6. 集群"
-subtitle:   "集群的搭建以及集群间发送消息"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
+# 6.集群 
 
 > “在前面，我们实现了单机版的`AkkaSystem`，也实现了actor的并行计算。现在我们做成分布式的/集群化的`AkkaSystem`。以实现最终的目标。”
 

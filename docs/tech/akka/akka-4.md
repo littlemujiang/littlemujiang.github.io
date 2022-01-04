@@ -1,17 +1,5 @@
-# 4. Actor间的交互与停止
+# 4.Actor间的交互与停止
 
----
-layout:     post
-title:      "4. Actor间的交互与停止"
-subtitle:   "actor之间如何传递消息"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
 
 > “actor之间需要协作才能完成各项功能，协作需要沟通”
 

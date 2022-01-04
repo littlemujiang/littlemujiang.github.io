@@ -1,17 +1,4 @@
-# 5. 路由
- 
----
-layout:     post
-title:      "5. 路由"
-subtitle:   "路由actor的使用与机制"
-date:       2021-09-10 11:00:00
-author:     "mujiang"
-header-img: "img/about-bg-walle.jpg"
-catalog: false
-tags:
-     - 技术
-   
----
+# 5.路由
 
 > “之前的例子中我们创建和使用的都是单个actor，而一个actor同时只能处理一条消息，这并没有发挥出akka并行计算的优势，我们希望能并行地去处理消息，就像kafka的consumer那样。这就需要使用到akka中的路由了。”
 
