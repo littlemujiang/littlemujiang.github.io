@@ -32,7 +32,7 @@
 * [7.工程化](https://littlemujiang.github.io/tech/akka/akka-7)
 * [其他：集群下的单例actor](https://littlemujiang.github.io/tech/akka/akka-other)
 
-### edgex专题
+### edgex专题(进阶)
 
 * [0-概述](https://littlemujiang.github.io/tech/edgex/0-概述)
 * [1-通用能力](https://littlemujiang.github.io/tech/edgex/1-通用能力)
