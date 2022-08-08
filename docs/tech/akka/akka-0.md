@@ -71,8 +71,7 @@
 
 * **示例代码**：https://github.com/littlemujiang/akka-typed-example.git
 
-* **notion**：
-* **个人blog**：
-* **CSDN**：
+* **CSDN**：https://blog.csdn.net/xlchen123456/article/details/120527602
+* **博客园**：https://www.cnblogs.com/littlemujiang/articles/15330116.html
 
 

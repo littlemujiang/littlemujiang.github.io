@@ -32,3 +32,15 @@
 * [7.工程化](https://littlemujiang.github.io/tech/akka/akka-7)
 * [其他：集群下的单例actor](https://littlemujiang.github.io/tech/akka/akka-other)
 
+### edgex专题
+
+* [0-概述](https://littlemujiang.github.io/tech/edgex/0-概述)
+* [1-通用能力](https://littlemujiang.github.io/tech/edgex/1-通用能力)
+* [2-自定义设备服务](https://littlemujiang.github.io/tech/edgex/2-自定义设备服务)
+* [3-自定义应用服务（go）](https://littlemujiang.github.io/tech/edgex/3-自定义应用服务（go）)
+* [4-自定义应用服务（python）](https://littlemujiang.github.io/tech/edgex/4-自定义应用服务（python）)
+
+
+
+---
+
