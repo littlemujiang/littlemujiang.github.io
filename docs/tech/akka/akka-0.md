@@ -57,7 +57,7 @@
 
 ### 参考资料
 
-* **官方文档**： https://doc.akka.io/docs/akka/current/typed/guide/introduction.html
+* **官方文档**： [https://doc.akka.io/docs/akka/current/typed/guide/introduction.html]()
 
 * **图书**：
     - 1. 《Akka入门与实践》，人民邮电出版社，2017：java与Scala双语言，太过简洁，而且是基于旧版akka classic参考价值不大。
@@ -69,9 +69,9 @@
 
 本系列文章，将会发布在各个地方。
 
-* **示例代码**：https://github.com/littlemujiang/akka-typed-example.git
+* **示例代码**：[https://github.com/littlemujiang/akka-typed-example.git]()
 
-* **CSDN**：https://blog.csdn.net/xlchen123456/article/details/120527602
-* **博客园**：https://www.cnblogs.com/littlemujiang/articles/15330116.html
+* **CSDN**：[https://blog.csdn.net/xlchen123456/article/details/120527602]()
+* **博客园**：[https://www.cnblogs.com/littlemujiang/articles/15330116.html]()
 
 
