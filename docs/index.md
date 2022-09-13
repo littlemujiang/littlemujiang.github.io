@@ -14,11 +14,10 @@
 
 ## 技术
 
+* [给媳妇讲区块链](https://littlemujiang.github.io/tech/blockchain)
+* [音频分析工具包：pyAudioAnalysis中文文档](https://littlemujiang.github.io/tech/pyAudioAnalysis)
 * [python 时间处理](https://littlemujiang.github.io/tech/python-time)
 * [《算法4》勘误表](https://littlemujiang.github.io/tech/suanfa4)
-* [音频分析工具包：pyAudioAnalysis中文文档](https://littlemujiang.github.io/tech/pyAudioAnalysis)
-* [给媳妇讲区块链](https://littlemujiang.github.io/tech/blockchain)
-
 
 ### akka专题
 
