@@ -38,7 +38,7 @@
 * [2-自定义设备服务](https://littlemujiang.github.io/tech/edgex/2-自定义设备服务)
 * [3-自定义应用服务（go）](https://littlemujiang.github.io/tech/edgex/3-自定义应用服务（go）)
 * [4-自定义应用服务（python）](https://littlemujiang.github.io/tech/edgex/4-自定义应用服务（python）)
-* [5-与规则引擎eKuiper联动（图拓扑规则）](https://littlemujiang.github.io/tech/edgex/与规则引擎eKuiper联动（图拓扑规则）)
+* [5-与规则引擎eKuiper联动（图拓扑规则）](https://littlemujiang.github.io/tech/edgex/5-与规则引擎eKuiper联动（图拓扑规则）)
 
 
 ---
