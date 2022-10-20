@@ -5,7 +5,7 @@ LF Edge eKuiper 是 Golang 实现的轻量级物联网边缘分析、流式处�
 
 eKuiper虽然不是edgex的一部分，但与edgex做了比较深的集成。
 
-关于eKuiper的基本使用，可以参考官方文档：https://ekuiper.org/docs/zh/latest/ 进行实现。
+关于eKuiper的基本使用，可以参考官方文档：https://ekuiper.org/docs/zh/latest/ 。
 
 本文仅专注于**如何在edgex中使用eKuiper的图拓扑规则来进行一些数据的处理**。同时指出eKuiper哪些能做到，哪些做不到，有哪些坑。
 
@@ -26,7 +26,7 @@ eKuiper虽然不是edgex的一部分，但与edgex做了比较深的集成。
    想计算下每分钟的平均温度，然后再发送到云端或者发送到application service中去处理或者触发对设备的控制。这种场景非常适合使用eKuiper进行。
    
    
-因此，我希望通过edgex和eKuiper的图规则来实现以下场景：
+因此，希望通过edgex和eKuiper的图规则来实现以下场景：
 1. eKuiper从edgex接收设备数据
 2. 对数据进行计算
 3. 把计算结果作为一个新的属性 发回到edgex中
@@ -59,7 +59,7 @@ eKuiper虽然不是edgex的一部分，但与edgex做了比较深的集成。
         "type": "source",
         "nodeType": "edgex",
         "props": {
-          "confKey": "citic_conf"
+          "confKey": "my_conf"
         }
       },
       ……
